@@ -1,0 +1,11 @@
+.guides .nav-tabs {
+  border: 0;
+}
+.nav-link p {
+  font-size: 14px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+h3 {
+  padding-left: 28px;
+}
